@@ -39,7 +39,11 @@ The script automatically checks if Nmap is installed and installs it on Debian/U
 - Debian/Ubuntu recommended
 - Execution permission (chmod +x nmap_toolkit.sh)
 ---
+# Syntax (Network or IP is a must! Ports are optional)
 
+    ./nmap_toolkit.sh <Network or IP> <port1> <port2>
+
+---
 # Usage example
 
   ## With ports:
