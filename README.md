@@ -24,10 +24,10 @@ The script automatically checks if Nmap is installed and installs it on Debian/U
 | Option | Description |
 |--------|-------------|
 | 1 | Normal network scan |
-| 2 | Operating system detection (`-O`) |
+| 2 | Operating system detection (`-O`) (needs sudo!) |
 | 3 | Service and version detection (`-sV`) |
 | 4 | Custom port range scan (`-p`) |
-| 5 | About section |
+| 5 | About the author |
 
 ---
 
@@ -37,7 +37,7 @@ The script automatically checks if Nmap is installed and installs it on Debian/U
 - Bash
 - Nmap
 - Debian/Ubuntu recommended
-- execution permission
+- Execution permission (chmod +x nmap_toolkit.sh)
 ---
 
 # Usage example
