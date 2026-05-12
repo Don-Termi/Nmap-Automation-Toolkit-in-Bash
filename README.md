@@ -58,6 +58,16 @@ The script automatically checks if Nmap is installed and installs it on Debian/U
 
 ---
 
+## Disclaimer
+
+This project was created for educational and authorized security testing purposes only.
+
+The author is not responsible for any misuse or illegal use of this tool.
+
+Always ensure you have proper authorization before scanning networks or systems.
+
+---
+
 # Installation
 
 Clone the repository:
