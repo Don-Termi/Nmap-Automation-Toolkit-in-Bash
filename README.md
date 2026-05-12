@@ -42,8 +42,13 @@ The script automatically checks if Nmap is installed and installs it on Debian/U
 
 # Usage example
 
-./nmap_toolkit.sh 192.168.1.0/24 0 80
+## With ports:
 
+  ./nmap_toolkit.sh 192.168.1.0/24 0 80
+
+## Without ports:
+
+  ./nmap_toolkit.sh 192.168.1.0/24
 
 ---
 
