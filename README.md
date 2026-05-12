@@ -37,6 +37,13 @@ The script automatically checks if Nmap is installed and installs it on Debian/U
 - Bash
 - Nmap
 - Debian/Ubuntu recommended
+- execution permission
+---
+
+# Usage example
+
+./nmap_toolkit.sh 192.168.1.0/24 0 80
+
 
 ---
 
