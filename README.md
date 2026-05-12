@@ -21,6 +21,8 @@ The script automatically checks if Nmap is installed and installs it on Debian/U
 
 # Available Scan Modes
 
+## All of them can be done with or without ports except number 4 which ports MUST be specified!
+
 | Option | Description |
 |--------|-------------|
 | 1 | Normal network scan |
