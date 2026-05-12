@@ -46,7 +46,7 @@ clear
 while [ "$opcio" != "0" ]; do
 
 echo "MAIN MENU NMAP BY MARTÍ GENSANA"
-echo "===================================="
+echo "==============================="
 echo ""
 
 # =========================
