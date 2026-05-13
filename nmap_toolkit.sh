@@ -61,7 +61,7 @@ if [[ ! -n "$identificador" || "$port1" -lt 0 || "$port2" -gt 65535 ]]; then
 
 	clear
 
-	echo "Incorrect Network/IP or port range! Make sure to write de corret Network/IP and range of port that are not greater than 65535 or lower than 0"
+	echo "Incorrect Network/IP or port range! Make sure to write de correct Network/IP and range of port that are not greater than 65535 or lower than 0"
 
 	# Exits the script if validation fails
 	exit 0
